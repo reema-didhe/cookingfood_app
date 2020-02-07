@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Cook Delicious</string>
+
+    <string name="veg_wrap_ingrediens">1/2 cup reduced-fat garlic-herb spreadable cheese
+        4 flour tortillas (10 inches)
+        1-1/4 cups chopped seeded tomatoes
+            1-1/4 cups julienned fresh spinach
+        3/4 cup chopped sweet red pepper
+        2 bacon strips, cooked and crumbled
+        1/4 teaspoon coarsely ground pepper</string>
+    <string name="veg_wrap_cookingtime">30 minutes</string>
+    <string name="veg_wrap_recipe">Spread 2 tablespoons spreadable cheese over each tortilla. Top with tomatoes, spinach, red pepper, bacon and pepper. Roll up tightly.</string>
+    <string name="veg_wrap_nutrutionfacts">1 wrap: 294 calories, 9g fat (4g saturated fat), 16mg cholesterol, 584mg sodium, 36g carbohydrate (3g sugars, 7g fiber), 11g protein. Diabetic Exchanges: 2-1/2 starch, 2 fat, 1 vegetable.</string>
+    
+    <string name="panipuri_ingredients">32 Puris or Golgappa (ready-made or homemade)
+        1 medium Onion, finely chopped (optional)
+        1/2 cup Sev
+        1/4 cup Date Tamarind Chutney, optional
+            1/2 cup Mint Leaves
+        1/2 cup Coriander Leaves, chopped
+        1-2 Green Chilli, chopped (or to taste)
+        1/2 inch pieces of Ginger
+        1½ medium size Lemon
+        3 tablespoons Sugar
+        1 teaspoon Chaat Masala Powder
+        1/4 teaspoons Black Salt (kala namak / sanchal)
+        4 tablespoons Boondi, optional
+        Salt to taste
+        4 cups Water</string>
+    <string name="panipuri_cookingtime">25 minutes</string>
+    <string name="panipuri_recipe">Rinse coriander and mint leaves in water and take all the ingredients of pani.Add mint leaves, coriander leaves, green chilli, ginger and lemon juice (lemon juice is added while grinding to prevent the mint leaves from turning dark) in the small chutney jar of a grinder.Grind until smooth paste (if required, add 1/4 cup water while grinding).Transfer them to a large bowl and add sugar, chaat masala powder, black salt and 4 cups water. Stir with a large spoon and mix it properly. Taste for the salt and add as required. Pani is ready; place it in a refrigerator for at least 1-hour before serving or use it at room temperature. If you like soft boondi, mix it now. If you like crispy taste of boondi then mix it at the time of serving.
+</string>
+    <string name="panipri_nutritionfacts">Calories 93 kcal per serving.</string>
+
+    <string name="pizza_ingredients">1 prepared pizza dough
+        1 large tomato sliced
+        8 oz. fresh mozzarella sliced
+        1/2 cup coarsely chopped fresh basil
+        2 tablespoons extra-virgin olive oil for drizzling
+        1 clove garlic halved
+        1 teaspoon dried oregano
+        salt and pepper to taste</string>
+    <string name="pizza_recipe">Preheat pizza stone in oven to 425 degrees.
+        Roll out pizza dough on floured surface. Transfer to pizza paddle and slide onto pizza stone; partially bake for about 5 minutes or until it firms up a bit.
+        Remove half-baked dough from oven.
+        Drizzle dough with olive oil and rub cut side of the garlic halves onto the dough, then sprinkle with the oregano.
+        Arrange tomato slices on top of the dough, and mozzarella slices on top of the tomatoes.
+        Slide the pizza back onto the pizza stone and bake until the cheese begins to brown and bubbles, about 10 minutes.
+        Remove from oven, sprinkle with fresh basil. Drizzle with the olive oil and add salt and pepper to taste.</string>
+    <string name="pizza_cookingtime">25 minutes</string>
+    <string name="pizza_nutrition">Calories: 447kcal | Carbohydrates: 44g | Protein: 20g | Fat: 23g | Saturated Fat: 8g | Cholesterol: 45mg | Sodium: 769mg | Potassium: 125mg | Fiber: 4g | Sugar: 1g | Vitamin A: 798IU | Vitamin C: 5mg | Calcium: 303mg | Iron: 1mg</string>
+
+    <string name="corn_salad_ingredients">fresh cilantro (chopped)
+        1/2 cup
+        red onion (finely diced)
+        1/2 cup
+        red bell pepper (finely diced)
+        1
+        frozen corn (thawed)
+        2 cup
+        black beans (29-ounce can, rinsed and drained)
+        1
+        small limes (juiced)
+        2
+        olive oil
+        3 tbsp
+        cumin
+        1/2 tsp
+        garlic powder
+        1/4 tsp
+        black pepper
+        1/4 tsp</string>
+    <string name="corn_salad_recipe">In a medium bowl, combine beans, corn, red pepper, red onion and cilantro. In a small bowl, whisk together remaining ingredients and pour over bean salad. Toss to coat.</string>
+    <string name="corn_salad_cookingtime">10 minutes</string>
+    <string name="corn_salad_nutrition">Calories 110 per serving</string>
+
+    <string name="hakkanoodles_ingredients">1 Pack (300 gm) Hakka Noodles
+        1/2 Cup Onion, thinly sliced
+        1/2 Cup Colored Capsicum (Bell Pepper), thinly sliced
+        1/2 Cup Cabbage, shredded
+        1/2 Cup Carrots, shredded
+        3-4 Stems Spring Onions, chopped
+        3-4 Cloves of Garlic, grated
+        1 Green Chilli, finely chopped
+        2 Teaspoons Soy Sauce
+        1 Teaspoon Chilli Vinegar
+        1 Teaspoon Green Chilli Sauce
+        1 Teaspoon Red Chilli Sauce
+        1/2 Teaspoon Salt, or to taste
+        1/2 Teaspoon Black Pepper Powder
+        1 Tablespoon Oil</string>
+    <string name="hakka_noodles_recipe">Boil 2 cups of water in a vessel. Add 1 teaspoon Oil in the water which will prevent the noodles from sticking to each other. Also add a pinch of Salt so that it gets absorbed in the noodles while cooking. Add the noodles to the water and cook them according to the instructions on the pack till they are tender.When the noodles are cooked, drain the hot water and place them in a colander. Lightly hand toss them to separate the noodle strands and run the noodles under cold water to stop the cooking process, so the noodles do not become mushy.You can prepare the gravy while the noodles are cooking. Heat 2 tablespoons of oil in a wok (kadhai). Add grated Garlic and finely chopped Green Chillies and fry them.Then add thinly sliced Onions and colored Bell Peppers (Capsicum).Also add shredded Cabbage and Carrots along with chopped Spring Onion whites.Toss the vegetables lightly for a few minutes, stir frying them on high heat till they are cooked but still crunchy. Do not cook overcook the vegetables.Add Soy Sauce, Vinegar, Green Chilli Sauce and Red Chilli Sauce. Also add Black Pepper Powder and Salt to taste.Toss lightly to mix the sauces with the vegetables.Boil 2 cups of water in a vessel. Add 1 teaspoon Oil in the water which will prevent the noodles from sticking to each other. Also add a pinch of Salt so that it gets absorbed in the noodles while cooking. Add the noodles to the water and cook them according to the instructions on the pack till they are tender.When the noodles are cooked, drain the hot water and place them in a colander. Lightly hand toss them to separate the noodle strands and run the noodles under cold water to stop the cooking process, so the noodles do not become mushy.You can prepare the gravy while the noodles are cooking. Heat 2 tablespoons of oil in a wok (kadhai). Add grated Garlic and finely chopped Green Chillies and fry them.Then add thinly sliced Onions and colored Bell Peppers (Capsicum).Also add shredded Cabbage and Carrots along with chopped Spring Onion whites.Toss the vegetables lightly for a few minutes, stir frying them on high heat till they are cooked but still crunchy. Do not cook overcook the vegetables.Add Soy Sauce, Vinegar, Green Chilli Sauce and Red Chilli Sauce. Also add Black Pepper Powder and Salt to taste.Toss lightly to mix the sauces with the vegetables. You can use 2 forks to mix the noodles so that they don\'t get smushed.Finally add some finely chopped Spring Onion Greens for garnish.</string>
+    <string name="hakka_noodles_cookingtime">20 minutes</string>
+    <string name="hakka_noodles_nutrition">Calories: 340
+        Carbohydrates: 67g
+        Fat: 5g
+        Protein: 11g</string>
+
+</resources>
